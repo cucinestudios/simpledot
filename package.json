@@ -1,0 +1,28 @@
+{
+  "name": "simpledot",
+  "version": "1.0.0",
+  "description": "Just create your .env file and load all your environment variables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cucinestudios/simpledot.git"
+  },
+  "keywords": [
+    "environment",
+    "config",
+    "files"
+  ],
+  "author": "@nievesjesus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cucinestudios/simpledot/issues"
+  },
+  "homepage": "https://github.com/cucinestudios/simpledot#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
