@@ -1,6 +1,6 @@
 {
   "name": "simpledot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just create your .env file and load all your environment variables.",
   "main": "index.js",
   "scripts": {
